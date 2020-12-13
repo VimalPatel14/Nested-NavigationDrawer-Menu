@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nested Navigation Drawer</string>
+
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="closeDrawer">Navigation View</string>
+</resources>
